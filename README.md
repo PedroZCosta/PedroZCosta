@@ -1,6 +1,7 @@
 # 💫 HI I’M PEDRO COSTA:
 🔭 I’m currently studying on PUCPR (Curitiba, Brazil)<br>📚 I’m in 2° Period of SOFTWARE ENGINEER<br>🍰 I’m 17 years old<br>🤝 I’m looking for help with programming skills and finding my first job<br>🌱 I’m currently learning Javascript and PHP<br>⚡ Fun fact I love to play games and go to gym
 
+[![](https://visitcount.itsvg.in/api?id=PedroZCosta&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pedroh.costa06) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedrohenriquezakrzevskicosta) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/PedroZCosta) 
@@ -21,7 +22,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=PedroZCosta&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=PedroZCosta&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
