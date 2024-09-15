@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 HI I’M PEDRO COSTA:
 🔭 I’m currently studying on PUCPR (Curitiba, Brazil)<br>📚 I’m in 2° Period of SOFTWARE ENGINEER<br>🍰 I’m 17 years old<br>🤝 I’m looking for help with programming skills and finding my first job<br>🌱 I’m currently learning Javascript and PHP<br>⚡ Fun fact I love to play games and go to gym
 
 
