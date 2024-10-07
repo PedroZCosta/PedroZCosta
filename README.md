@@ -1,5 +1,5 @@
 # 💫 HI I’M PEDRO COSTA:
-🔭 I’m currently studying on PUCPR (Curitiba, Brazil)<br>📚 I’m in 2° Period of SOFTWARE ENGINEER🤝 I’m looking for help with programming skills and finding my first job<br>🌱 I’m currently learning Javascript and PHP
+🔭 I’m currently studying on PUCPR (Curitiba, Brazil)<br>📚 I’m in 2° Period of SOFTWARE ENGINEER<br>🤝 I’m looking for help with programming skills and finding my first job<br>🌱 I’m currently learning Javascript and PHP
 
 [![](https://visitcount.itsvg.in/api?id=PedroZCosta&icon=0&color=1)](https://visitcount.itsvg.in)
 
