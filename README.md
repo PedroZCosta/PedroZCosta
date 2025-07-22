@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">I'm 18 years old and I'm a beginner programmer. I am currently studying at PUCPR on Brazil.</h3>
+<h3 align="left">I'm 18 years old and I'm a beginner programmer. I am currently studying at PUCPR on Brazil.</h3>
 
 ###
 
