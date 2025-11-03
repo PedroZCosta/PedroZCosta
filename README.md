@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning Java and Spring Boot<br><br>🤝 I’m looking for help with programming skills and finding my first job<br><br>📫 How to reach me pzakrzevski@gmail.com</p>
+<p align="left">🌱 I’m currently learning Java and Spring Boot<br><br>🤝 I’m currently an intern at Wayv Technologies, looking to improve my programming skills and gain experience in my first professional role<br><br>📫 How to reach me pzakrzevski@gmail.com</p>
 
 
 <h2 align="left">Connect with me:</h2>
